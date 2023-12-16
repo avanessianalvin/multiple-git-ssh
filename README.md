@@ -49,8 +49,8 @@ help
         git remote rm origin 
             (remove origin if exists)
 
-        git remote add origin git@github.com-SOMESUFFIX/weltho/frontend.git  
-            (this can be got from github each repo has an address like : git@github.com:weltho/frontend.git, edit git@github.com-SOMESUFFIX)
+        git remote add origin git@github.com-SOMESUFFIX/johnsmith/frontend.git  
+            (this can be got from github each repo has an address like : git@github.com:johnsmih/frontend.git, edit git@github.com-SOMESUFFIX)
 
         git push -u origin master
             (pushes repo to git hub)
